@@ -41,7 +41,7 @@ Specifically, my current research focused to address the **distribution mis-spec
 
 3. **Haozhe Ji**, Pei Ke, Zhipeng Hu, Rongsheng Zhang, Minlie Huang. <br>
 **Tailoring Language Generation Models under Total Variation Distance**. <br>
-<u>International Conference on Learning Representations, <em>ICLR 2023</em>. <br> <strong><font color=red bold>(Notable top 5%)</font></strong></u> <br>
+<u>International Conference on Learning Representations, <em>ICLR 2023</em>. <br> <strong><font color=red bold>(Oral / Notable top 5%)</font></strong></u> <br>
 [[paper]](https://openreview.net/forum?id=VELL0PlWfc) [[repo]](https://github.com/thu-coai/TaiLr)
 
 4. Pei Ke, **Haozhe Ji**, Zhenyu Yang, Yi Huang, Junlan Feng, Xiaoyan Zhu, Minlie Huang. <br>
