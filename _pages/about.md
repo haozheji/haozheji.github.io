@@ -22,7 +22,7 @@ Secondly, in terms of the **problem of learning**, my research advocates for **q
 
 - I am looking for industrial or academic positions this upcoming year!
 - **[06/2024]** I gave a recent talk summarizing my work and thoughts on the ***Theoretical Limitations of Language Modeling and Beyond*** [[slides](files/lm_theoretical_limits_haozheji.pdf)] at ByteDance.
-- **[05/2024]** Our [**EXO paper**](https://arxiv.org/abs/2402.00856) is accepted at **ICML 2024**. See you in Vienna 🇦🇹 and feel free to reach out!
+- **[05/2024]** Our [**EXO paper**](https://arxiv.org/abs/2402.00856) is accepted at **ICML 2024**. See you in Vienna 🇦🇹🎡 and feel free to reach out!
 - **[03/2024]** I gave a talk on our recent work, ***Towards Efficient Exact Optimization (EXO) of Language Model Alignment*** [[slides](files/exo_haozheji.pdf)].
 
 
