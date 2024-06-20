@@ -12,16 +12,17 @@ I am Haozhe Ji, a penultimate-year Ph.D. student from [CoAI Group](http://coai.c
 
 My research is driven by the goal of developing **theoretically grounded and scalable methods** to improve neural language models in the areas of **natural language generation** and **language model alignment**. Specifically, my work aims to develop practical algorithms and systems that address the fundamental limitations of the standard paradigm of language modeling in a principled manner.
 
-Firstly, my research explores model families beyond the auto-regressive models (ARMs) which possess a strong local inductive bias, to facilitate more accurate modeling of the growing volume of data. This includes the development and practical realization of **theoretically more expressive model families** including energy-based models{% glossary Daemon, display: 2%}, latent variable models{% glossary discodvt, display: 6%}, and semi-parametric models{% glossary grf, display: 8%}.
+Firstly, in terms of the **choice of modeling**, my research explores model families beyond auto-regressive models (ARMs) which possess a strong local inductive bias, to facilitate more accurate modeling of the growing volume of data. This includes practical realization of **theoretically more expressive model families**, e.g., energy-based models{% glossary Daemon, display: 2%}, latent variable models{% glossary discodvt, display: 6%}, and semi-parametric models{% glossary grf, display: 8%}.
 
-Secondly, in terms of the problem of learning from data, my research advocates for **quality-aware learning objectives** beyond maximum likelihood estimation (MLE) which is biased towards coverage. These new objectives are theoretically grounded in probability metrics that facilitate quality assessment, including reverse KL divergence{% glossary EXO, display: 1%} and total variation distance{% glossary TaiLr, display: 3%} to accommodate the growth of high-quality data annotations in various forms.
+Secondly, in terms of the **problem of learning**, my research advocates for **quality-aware learning objectives** beyond maximum likelihood estimation (MLE) which is biased towards coverage. These new objectives are theoretically grounded in probability metrics that facilitate quality assessment, including reverse KL divergence{% glossary EXO, display: 1%} and total variation distance{% glossary TaiLr, display: 3%} to accommodate the growth of high-quality data annotations in various forms.
 
 
 
 ## News
 
+- I am looking for industrial or academic positions this upcoming year!
 - **[06/2024]** I gave a recent talk summarizing my work and thoughts on the ***Theoretical Limitations of Language Modeling and Beyond*** [[slides](files/lm_theoretical_limits_haozheji.pdf)] at ByteDance.
-- **[05/2024]** Our [**EXO paper**](https://arxiv.org/abs/2402.00856) is accepted at **ICML 2024**.
+- **[05/2024]** Our [**EXO paper**](https://arxiv.org/abs/2402.00856) is accepted at **ICML 2024**. See you in Vienna 🇦🇹 and feel free to reach out!
 - **[03/2024]** I gave a talk on our recent work, ***Towards Efficient Exact Optimization (EXO) of Language Model Alignment*** [[slides](files/exo_haozheji.pdf)].
 
 

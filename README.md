@@ -8,8 +8,10 @@ https://www.yegor256.com/2014/06/24/jekyll-github-deploy.html
 
 ```bash
 gem install jgd
-jgd
 ```
+
+First push changes to master, then run `jgd` to compile the results in `gh-pages` branch
+
 
 ## Original README
 
