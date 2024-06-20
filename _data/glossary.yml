@@ -1,5 +1,5 @@
 - term: EXO
-  definition: '<b>Towards Efficient and Exact Optimization of Language Model Alignment</b> <br>Haozhe Ji, Cheng Lu, Yilin Niu, Pei Ke, Hongning Wang, Jun Zhu, Jie Tang, Minlie Huang. <br> <em>arXiv:2402.00856. 2024</em>.'
+  definition: '<b>Towards Efficient and Exact Optimization of Language Model Alignment</b> <br>Haozhe Ji, Cheng Lu, Yilin Niu, Pei Ke, Hongning Wang, Jun Zhu, Jie Tang, Minlie Huang. <br> <em>ICML 2024</em>.'
   url: https://arxiv.org/abs/2402.00856
 - term: Daemon
   definition: '<b>Language Model Decoding as Direct Metrics Optimization</b> <br> Haozhe Ji, Pei Ke, Hongning Wang, Minlie Huang. <br> <em>ICLR 2024</em>.'
