@@ -117,8 +117,11 @@ Reviewer/Program Committee: ACL, EMNLP, NAACL, ARR
 
 I was the Head TA of the undergraduate course **Artificial Neural Network**, instructed by [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml) (2021 Fall, 2022 Fall, 2023 Fall).
 
+I coauthored the NLP textbook [*Modern Natural Language Generation*](https://search.worldcat.org/zh-cn/title/1343590002) (in Chinese). Specifically, I mainly drafted the fourth chapter [*Transformer-based Language Generation Model*](https://github.com/thu-coai/NLG_book).
+
 ## Personal
 
 I am a cellist :violin: in the Tsinghua University Symphony Orchestra (TUSO). Explore our 30th-anniversary concert, featuring a performance of [Symphony No. 8](https://www.bilibili.com/video/BV1Yh4y1g7t7) by [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k).
+
 
 
