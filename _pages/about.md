@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Haozhe Ji, a penultimate-year Ph.D. student from [CoAI Group](http://coai.cs.tsinghua.edu.cn/) in the Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Previously, I received my bachelor degree from the Dept. of Electronic Engineering, Tsinghua University, and got a gold medal at the Chinese Physics Olympiad. Please find my **CV here** [[English](files/cv_haozhe_en.pdf)].
+I am Haozhe Ji, a final-year Ph.D. student from [CoAI Group](http://coai.cs.tsinghua.edu.cn/) in the Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Previously, I received my bachelor degree from the Dept. of Electronic Engineering, Tsinghua University, and got a gold medal at the Chinese Physics Olympiad. Please find my **CV here** [[English](files/cv_haozhe_en.pdf)].
 
 My research is driven by the goal of developing **theoretically grounded and scalable methods** to improve neural language models in the areas of **natural language generation** and **language model alignment**. Specifically, my work aims to develop practical algorithms and systems that address the fundamental limitations of the standard paradigm of language modeling in a principled manner.
 
