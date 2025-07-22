@@ -12,6 +12,7 @@ gem install jgd
 
 First push changes to master, then run `jgd` to compile the results in `gh-pages` branch
 
+change ruby version in Gemfile to 3.2.3
 
 ## Original README
 
