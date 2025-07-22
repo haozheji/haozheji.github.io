@@ -19,13 +19,13 @@ Firstly, in terms of the **choice of modeling**, my research explores model fami
 Secondly, in terms of the **problem of learning**, my research advocates for **quality-aware learning objectives** beyond maximum likelihood estimation (MLE) which is biased towards coverage. These new objectives are theoretically grounded in probability metrics that facilitate quality assessment, including reverse KL divergence{% glossary EXO, display: 1%} and total variation distance{% glossary TaiLr, display: 3%} to accommodate the growth of high-quality data annotations in various forms.-->
 
 
-
+<!--
 ## News
 
 - **[06/2024]** I gave a recent talk summarizing my work and thoughts on the ***Theoretical Limitations of Language Modeling and Beyond*** [[slides](files/lm_theoretical_limits_haozheji.pdf)] at ByteDance.
 - **[05/2024]** Our [**EXO paper**](https://arxiv.org/abs/2402.00856) is accepted at **ICML 2024**. See you in Vienna 🇦🇹🎡 and feel free to reach out!
 - **[03/2024]** I gave a talk on our recent work, ***Towards Efficient Exact Optimization (EXO) of Language Model Alignment*** [[slides](files/exo_haozheji.pdf)].
-
+-->
 
 ## Publications
 
