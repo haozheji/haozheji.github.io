@@ -14,6 +14,8 @@ First push changes to master, then run `jgd` to compile the results in `gh-pages
 
 change ruby version in Gemfile to 3.2.3
 
+After running `jgd`, run `bundle install` to install dependencies for local gem.
+
 ## Original README
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
