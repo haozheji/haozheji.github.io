@@ -10,7 +10,7 @@ https://www.yegor256.com/2014/06/24/jekyll-github-deploy.html
 gem install jgd
 ```
 
-First push changes to master, then run `jgd` to compile the results in `gh-pages` branch
+First push changes to master, then run `jgd -n` (use bundle) to compile the results in `gh-pages` branch
 
 change ruby version in Gemfile to 3.2.3
 
