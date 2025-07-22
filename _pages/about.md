@@ -8,19 +8,20 @@ redirect_from:
 ---
 
 
-I am Haozhe Ji, a final-year Ph.D. student from [CoAI Group](http://coai.cs.tsinghua.edu.cn/) in the Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Previously, I received my bachelor degree from the Dept. of Electronic Engineering, Tsinghua University, and got a gold medal at the Chinese Physics Olympiad. Please find my **CV here** [[English](files/cv_haozhe_en.pdf)].
+I am Haozhe Ji, a final-year Ph.D. student from [CoAI Group](http://coai.cs.tsinghua.edu.cn/) in the Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Previously, I received my bachelor degree from the Dept. of Electronic Engineering, Tsinghua University. Before that, I won a gold medal in the Chinese Physics Olympiad (CPhO). Please find my **CV here** [[English](files/cv_haozhe_en.pdf)].
 
-My research is driven by the goal of developing **theoretically grounded and scalable methods** to improve neural language models in the areas of **natural language generation** and **language model alignment**. Specifically, my work aims to develop practical algorithms and systems that address the fundamental limitations of the standard paradigm of language modeling in a principled manner.
+I am interested in large-scale language models and reinforcement learning algorithms, with particular focus on practical approaches with theoretical underpinnings.
+
+<!--My research is driven by the goal of developing **theoretically grounded and scalable methods** to improve neural language models in the areas of **natural language generation** and **language model alignment**. Specifically, my work aims to develop practical algorithms and systems that address the fundamental limitations of the standard paradigm of language modeling in a principled manner.
 
 Firstly, in terms of the **choice of modeling**, my research explores model families beyond auto-regressive models (ARMs) which possess a strong local inductive bias, to facilitate more accurate modeling of the growing volume of data. This includes practical realization of **theoretically more expressive model families**, e.g., energy-based models{% glossary Daemon, display: 2%}, latent variable models{% glossary discodvt, display: 6%}, and semi-parametric models{% glossary grf, display: 8%}.
 
-Secondly, in terms of the **problem of learning**, my research advocates for **quality-aware learning objectives** beyond maximum likelihood estimation (MLE) which is biased towards coverage. These new objectives are theoretically grounded in probability metrics that facilitate quality assessment, including reverse KL divergence{% glossary EXO, display: 1%} and total variation distance{% glossary TaiLr, display: 3%} to accommodate the growth of high-quality data annotations in various forms.
+Secondly, in terms of the **problem of learning**, my research advocates for **quality-aware learning objectives** beyond maximum likelihood estimation (MLE) which is biased towards coverage. These new objectives are theoretically grounded in probability metrics that facilitate quality assessment, including reverse KL divergence{% glossary EXO, display: 1%} and total variation distance{% glossary TaiLr, display: 3%} to accommodate the growth of high-quality data annotations in various forms.-->
 
 
 
 ## News
 
-- I am looking for industrial or academic positions this upcoming year!
 - **[06/2024]** I gave a recent talk summarizing my work and thoughts on the ***Theoretical Limitations of Language Modeling and Beyond*** [[slides](files/lm_theoretical_limits_haozheji.pdf)] at ByteDance.
 - **[05/2024]** Our [**EXO paper**](https://arxiv.org/abs/2402.00856) is accepted at **ICML 2024**. See you in Vienna 🇦🇹🎡 and feel free to reach out!
 - **[03/2024]** I gave a talk on our recent work, ***Towards Efficient Exact Optimization (EXO) of Language Model Alignment*** [[slides](files/exo_haozheji.pdf)].
@@ -97,6 +98,7 @@ Secondly, in terms of the **problem of learning**, my research advocates for **q
 
 ## Honors & Awards
 
+- [**China National Scholarship**](https://www.cs.tsinghua.edu.cn/info/1088/6495.htm), 2024
 - **Tang Junyuan (唐君远) Scholarship**, Tsinghua University, 2023
 - **Sohu Scholarship**, Tsinghua University, 2022
 - **Yang Huiyan (杨惠妍) Scholarship**, Tsinghua University, 2021
