@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haozhe Ji 计昊哲"
 title_separator          : "-"
 name                     : &name "Haozhe Ji 计昊哲"
-description              : &description "Penultimate-year Ph.D. student at Tsinghua University"
+description              : #&description "Penultimate-year Ph.D. student at Tsinghua University"
 url                      : https://haozheji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haozheji/haozheji.github.io"
@@ -82,7 +82,7 @@ social:
 author:
   name             : "Haozhe Ji"
   avatar           : "haozhe.jpg"
-  bio              : "Penultimate-year Ph.D. student at Tsinghua University"
+  bio              : #"Penultimate-year Ph.D. student at Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "EzhoahJi"
+  twitter          : "HaozJi"
   vine             :
   weibo            :
   xing             :
